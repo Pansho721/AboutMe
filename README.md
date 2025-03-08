@@ -1,5 +1,5 @@
 # AboutMe
-Personal description about meç
+Personal description about me
 
 HTML
 BOOTSTRAP
