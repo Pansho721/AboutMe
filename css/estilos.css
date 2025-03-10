@@ -1,4 +1,23 @@
+.title01{
+    font-family: "Georgia", serif;
+    color: black;
+}
+
+.title02{
+    font-size: 18px;
+    font-family: "Georgia", serif;
+    color: #6d6d6d;
+}
+
 .basic01{
+    font-style: oblique;
+    font-family: "Georgia", serif;
     background-color:black;
     color: aqua;
+}
+
+.basic02{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: LightGray;
+    color: black;
 }
